@@ -1,4 +1,4 @@
-## IT ACADEMY - Mentored Front End itineray with Angular ##
+IT ACADEMY - Mentored Front End itineray with Angular
 
        This repository contains the two exercises of the Spring 1. :
 
