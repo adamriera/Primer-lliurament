@@ -1,6 +1,6 @@
 IT ACADEMY - Mentored Front End itineray with Angular
 
-       This repository contains the two exercises of the Sprint 1. :
+       Sprint 1. Layout.
 
        s1.1 - HTML and CSS with Flexbox.
               "This exercise consists in build a responsive layout for desktop, tablet and mobile."
